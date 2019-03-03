@@ -55,31 +55,6 @@ nav a {
     z-index:999;
 }
 
-.navbar {
-    display: flex;
-    justify-content: flex-end;
-}
-.navbar {
-    display: flex;
-    justify-content: flex-end;
-}
-.navbar a:hover {
-  color: #718daa;
-}
-
-.logo {
-  margin: 0;
-  font-size: 1.45em;
-
-}
-
-.logo a,
-.navbar a {
-  padding: 10px 15px;
-  text-transform: uppercase;
-  display: block;
-
-}
 
 .header {
   padding-top: .5em;
@@ -143,3 +118,26 @@ footer {
   height: 20px;
 
 }
+
+.navbar {
+    display: flex;
+    justify-content: flex-end;
+}
+.navbar a:hover {
+  color: #fb1898;
+}
+
+.logo {
+  margin: 0;
+  font-size: 1.45em;
+
+}
+
+.logo a,
+.navbar a {
+  padding: 10px 15px;
+  text-transform: uppercase;
+  display: block;
+
+}
+
